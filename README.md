@@ -26,7 +26,7 @@ See https://yarnpkg.com/en/package/normalize.css
 See https://necolas.github.io/normalize.css/latest/normalize.css
 
 
-## What does it do?
+## What does it do? coisinha
 
 * Preserves useful defaults, unlike many CSS resets.
 * Normalizes styles for a wide range of elements.
